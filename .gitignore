@@ -1,0 +1,12 @@
+# Local tooling
+.claude/
+
+# Private research (not part of the website)
+research_notes/
+reports/
+
+# OS / editor clutter
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
